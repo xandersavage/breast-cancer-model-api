@@ -82,7 +82,7 @@ def root():
         "message": "Welcome to the Breast Cancer Prediction API",
         "version": settings.VERSION,
         "environment": settings.ENVIRONMENT,
-        "health": f"{settings.API_V1_STR}/health",
+        "health": f"{settings.API_V1_STR}/system/health",
         "api_version": settings.API_V1_STR
     }
     
