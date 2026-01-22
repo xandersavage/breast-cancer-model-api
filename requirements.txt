@@ -1,20 +1,20 @@
 # FastAPI Framework
-fastapi==0.109.0
+fastapi
 
 # ASGI Servers
-uvicorn[standard]==0.27.0
-gunicorn==21.2.0
+uvicorn[standard]
+gunicorn
 
 # Data Validation
-pydantic==2.5.3
-pydantic-settings==2.1.0
+pydantic
+pydantic-settings
 
 # Data Processing
-pandas>=2.2.3
-numpy==1.26.3
+pandas
+numpy
 
 # Machine Learning
-scikit-learn==1.4.0
+scikit-learn
 
 # Additional utilities
-python-multipart==0.0.6
+python-multipart
